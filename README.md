@@ -1,4 +1,4 @@
-# Internship at Laboratoire Dieudonné, University of Nice  
+# Internship at LJAD, University of Nice  
 ### **Subject:** Modeling Volatility with Fractional Brownian Motion
 
 This repository contains my work during the internship at **Laboratoire Dieudonné, University of Nice**, under the supervision of **Prof. François Delarue**. The subject of the research is _"Modeling Volatility with Fractional Brownian Motion"_. The project explores mathematical challenges in constructing a stochastic integral with respect to fractional Brownian motion, proposes an algorithm to efficiently generate trajectories of fractional Ornstein-Uhlenbeck processes, and provides a numerical analysis on high-frequency trading data.
